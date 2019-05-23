@@ -1,0 +1,71 @@
+{
+  "_from": "strapi-upload-aws-s3-multibucket@1.0.3",
+  "_id": "strapi-upload-aws-s3-multibucket@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-99p0JU4hTU/pTGHTWhUc7etIoxcugzqdlSDEk0Nt8lTxnNzfJMFlNmgi6Y2Nt4orN2Bsf9jfLxKZADP8Bhy5oQ==",
+  "_location": "/strapi-upload-aws-s3-multibucket",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "strapi-upload-aws-s3-multibucket@1.0.3",
+    "name": "strapi-upload-aws-s3-multibucket",
+    "escapedName": "strapi-upload-aws-s3-multibucket",
+    "rawSpec": "1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "1.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/strapi-upload-aws-s3-multibucket/-/strapi-upload-aws-s3-multibucket-1.0.3.tgz",
+  "_shasum": "401dcbac95b1d5261d837d97f639b7efd2890eb5",
+  "_spec": "strapi-upload-aws-s3-multibucket@1.0.3",
+  "_where": "/home/vinit/code/github/RadioWeb/radio-web-backend-mongodb",
+  "author": {
+    "name": "Boldium",
+    "email": "william.lark@boldium.com",
+    "url": "http://boldium.com"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "aws-sdk": "^2.199.0"
+  },
+  "deprecated": false,
+  "description": "AWS S3 provider for strapi upload (modified)",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">= 9.0.0",
+    "npm": ">= 5.3.0"
+  },
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "upload",
+    "aws",
+    "s3",
+    "strapi"
+  ],
+  "license": "MIT",
+  "main": "./lib",
+  "maintainers": [
+    {
+      "name": "Boldium",
+      "email": "william.lark@boldium.com",
+      "url": "http://boldium.com"
+    }
+  ],
+  "name": "strapi-upload-aws-s3-multibucket",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "version": "1.0.3"
+}
